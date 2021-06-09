@@ -1,0 +1,13 @@
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\HWIDSpoofer\HWIDSpoofer\bin\Debug\HWIDSpoofer.exe.config
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\HWIDSpoofer\HWIDSpoofer\bin\Debug\HWIDSpoofer.exe
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\HWIDSpoofer\HWIDSpoofer\bin\Debug\HWIDSpoofer.pdb
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.exe
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.pdb
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.csprojAssemblyReference.cache
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.exe
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\obj\Debug\HWIDSpoofer.pdb
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\bin\Debug\HWIDSpoofer.exe.config
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\bin\Debug\HWIDSpoofer.exe
+C:\Users\felig\Documents\SimpleHWIDSpoofer-main\DrippinSpoofer\HWIDSpoofer\HWIDSpoofer\bin\Debug\HWIDSpoofer.pdb
